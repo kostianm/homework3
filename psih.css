@@ -1,0 +1,198 @@
+body {
+    margin: auto;
+    width: 752px;
+}
+
+.kabinet {
+    height: 237px;
+    background-color: #2D7053;
+    align-content: center;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.elips1 {
+    margin: 37px 57px 46px 37px;
+    height: 144px;
+    width: 144px;
+
+}
+
+.kab_psih {
+    height: 134px;
+    width: 131px;
+    margin-top: 53px;
+    margin-bottom: 53px;
+    font-size: 30px;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+color: #FFFFFF;
+}
+
+.linii {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    width: 87px;
+    height: 15px;
+    background: rgba(255, 255, 255, 1);
+    margin-left: 249px;
+    margin-top: 83px;
+    margin-bottom: 83px;
+    margin-right: 44px;
+    
+}
+
+.sredina {
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+div.foto {
+    height: 470px;
+    background-image: url(./priam.jpg);
+    color: yellow;
+}
+
+.knopka-priem-foto{
+    Width: 344px;
+    height: 77px;
+    margin-top: 368px;
+    margin-left: 195px;
+    margin-bottom: 25px;
+    margin-right: 213px;
+    position: absolute;
+background: rgba(203, 146, 35, 1);
+font-size: 24px;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+color: #FFFFFF;
+}
+
+div.opisanie {
+    height: 1018px;
+    margin-left: 45px;
+    }
+
+.foto-imia{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.imia {
+    margin-bottom: 29px;
+    margin-top: 155px;
+    font-size: 36px;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+color: #000000;
+}
+
+.spec{
+    margin-bottom: 140px;
+    font-size: 24px;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+color: #000000;
+width: 245px;
+height: 50px;
+}
+
+.imia-spec{
+    display: flex;
+    flex-direction: column;
+    margin-left: 68px;
+}
+
+.foto-doctora{
+  width: 255px;
+height: 276px;
+margin-top: 79px;
+margin-bottom: 46px;
+}
+
+.opyt{
+    font-size: 24px;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+color: #000000;
+width: 590px;
+height: 166px;
+}
+
+.prichiny{
+    text-align: left;
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+color: #000000;
+}
+
+.prichiny-spisok{
+text-align: left;
+font-size: 24px;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+color: #000000;
+}
+
+.kontakty {
+  height: 156px;
+margin-top: 47px;
+background: rgba(136, 136, 136, 1);
+display: flex;
+flex-direction: row;
+}
+
+
+.knopka-priem-koniec{
+    Width: 344px;
+    height: 77px;
+    margin-top: 42px;
+    margin-left: 172px;
+        margin-right: 191px;
+    position: absolute;
+background: rgba(203, 146, 35, 1);
+font-size: 24px;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+color: #FFFFFF;
+}
+
+.elips2{
+    width: 99px;
+height: 99px;
+margin-left: 44px;
+margin-top: 29px;
+margin-bottom: 28px;
+}
+
+.kontakts{
+font-size: 18px;
+font-weight: 400;
+text-align: right;
+color: #FFFFFF;
+
+
+}
+
+.telefon {
+    margin-left: 428px;
+    margin-top: 58px;
+    margin-bottom: 0;
+}
+.adres {
+    
+    margin-top: 0;
+   
+}
